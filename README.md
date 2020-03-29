@@ -18,6 +18,9 @@ https://api.kawalcorona.com/indonesia/ <br />
 Asset : <br />
 https://www.freepik.com/free-vector/flat-emoticon-reaction-collectio_4455007.htm#page=1&query=icons%20emoticon&position=39#position=39&page=1&query=icons%20emoticon <br />
 
+Learning : <br />
+https://www.freecodecamp.org/news/how-to-build-a-movie-search-app-using-react-hooks-24eb72ddfaf7/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
