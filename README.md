@@ -11,9 +11,12 @@ Card : <br />
 npm i @bit/react-bootstrap.react-bootstrap.card <br />
 npm i @bit/react-bootstrap.react-bootstrap.internal.style-links; <br />
 
-Api :
-https://api.kawalcorona.com/indonesia/provinsi/
-https://api.kawalcorona.com/indonesia/
+Api : <br />
+https://api.kawalcorona.com/indonesia/provinsi/ <br />
+https://api.kawalcorona.com/indonesia/ <br />
+
+Asset : <br />
+https://www.freepik.com/free-vector/flat-emoticon-reaction-collectio_4455007.htm#page=1&query=icons%20emoticon&position=39#position=39&page=1&query=icons%20emoticon <br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
