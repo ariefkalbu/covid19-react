@@ -1,15 +1,15 @@
-React :
-npx create-react-app my-app
-cd my-app
-npm start
+React : <br />
+npx create-react-app my-app <br />
+cd my-app <br />
+npm start <br />
 
-Datatables :
-npm i react-data-table-component
-npm install react-data-table-component styled-components
+Datatables : <br />
+npm i react-data-table-component <br />
+npm install react-data-table-component styled-components <br />
 
-Card :
-npm i @bit/react-bootstrap.react-bootstrap.card
-npm i @bit/react-bootstrap.react-bootstrap.internal.style-links;
+Card : <br />
+npm i @bit/react-bootstrap.react-bootstrap.card <br />
+npm i @bit/react-bootstrap.react-bootstrap.internal.style-links; <br />
 
 Api :
 https://api.kawalcorona.com/indonesia/provinsi/
