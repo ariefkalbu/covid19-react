@@ -1,3 +1,20 @@
+React :
+npx create-react-app my-app
+cd my-app
+npm start
+
+Datatables :
+npm i react-data-table-component
+npm install react-data-table-component styled-components
+
+Card :
+npm i @bit/react-bootstrap.react-bootstrap.card
+npm i @bit/react-bootstrap.react-bootstrap.internal.style-links;
+
+Api :
+https://api.kawalcorona.com/indonesia/provinsi/
+https://api.kawalcorona.com/indonesia/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
